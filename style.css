@@ -1,0 +1,11 @@
+.bg-color {}
+
+.container {
+    display: flex;
+}
+
+.header-list {
+    display: flex;
+    text-decoration: none;
+    justify-content: end;
+}
